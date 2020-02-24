@@ -1,0 +1,2 @@
+# smart
+tc_competition
